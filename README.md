@@ -62,3 +62,6 @@ Independends clusters shown
 
 ![7](pics/7.png)
 
+
+
+Copyright (c) 2016 Antek Drzewiecki
