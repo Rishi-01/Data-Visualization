@@ -1,5 +1,5 @@
 # data-visualization-week3-assignment
-## American football games between Division IA  colleges during regular season Fall 2000
+## American football games between Division IA   colleges during regular season Fall 2000
 
 ### What is the data that you chose? Why?
 
